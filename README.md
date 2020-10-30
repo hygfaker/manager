@@ -5,6 +5,4 @@
 2. 监听 kafka 主题`Lpfm2ChannelBindedNotify_60035`，处理 sid 与 uid 的解绑/绑定关系
 
 ## 提供的 RPC 接口
-aaaa
-bbbb
-
+dev 接口如下：
