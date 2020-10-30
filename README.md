@@ -6,8 +6,4 @@
 
 ## 提供的 RPC 接口
 dev 接口如下：
-dev1
-dev2
-aaaa
-bbbb
-
+fix-接口
